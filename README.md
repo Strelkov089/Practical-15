@@ -1,1 +1,1 @@
-# Practical-15
+# Practical-15 Стрелков
